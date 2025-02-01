@@ -20,12 +20,16 @@ Generación de Señales de Trading
 Cruzamiento de SMA:
 
 Señal de compra 📈 cuando la SMA de corto plazo cruza por encima de la SMA de largo plazo (cruce dorado).
+
 Señal de venta 📉 cuando la SMA de corto plazo cruza por debajo (cruce de la muerte).
 
 
 📊 Beneficios del Bot de Trading:
 
 ✅ Automatización: Opera sin intervención humana.
+
 ✅ Reducción del ruido del mercado: Filtra movimientos bruscos para enfocarse en tendencias reales.
+
 ✅ Optimización de decisiones: Basado en análisis técnico probado.
+
 ✅ Escalabilidad: Puede ajustarse a diferentes activos o períodos de tiempo.
