@@ -13,7 +13,9 @@ Limpieza de Datos
 *  Cálculo de Medias Móviles (SMA)
 
 SMA de corto plazo (10 períodos): Detecta cambios recientes en el precio.
+
 SMA de largo plazo (50 períodos): Identifica tendencias generales del mercado.
+
 Generación de Señales de Trading
 
 
